@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d2b3&height=150&section=header" />
 
 # 🗂 정예은 포트폴리오
 > ### 정예은 (Yeeun Jeong)'s Projects Portfolio
@@ -51,4 +51,4 @@
 >>
 >>### [프로젝트상세](https://github.com/moranengyo/React_Android_Project)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c1fef5&height=150&section=footer" />
